@@ -1,0 +1,10 @@
+.tipContainer{
+        background: #0b6efd;
+        color: white;
+        height: 40px;
+        text-align:  center;
+        width: 100%;
+        font-size: large;
+        font-weight: 900;
+        font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,13 @@
+.listItem{
+text-align: center;
+position: fixed;
+left: 700px;
+top: 300px;
+font-size: 40px;
+}
+.arow{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}

@@ -1,0 +1,12 @@
+.try{
+   display: flex;
+   align-items: center;
+   gap: 10px;
+   margin-top: 30px;
+   position: absolute;
+   left: 450px;
+}
+.posi{
+    position: absolute;
+   left: 265px; 
+}

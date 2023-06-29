@@ -1,0 +1,31 @@
+.last{
+   position: absolute;
+   background: rgb(58, 155, 58);
+   left: 700px;
+   top: 500px;
+   color: white;
+   border: none;
+   text-align: center;
+   width: 300px;
+   height: 40px;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+.chigg{
+position: absolute;
+left: 500px;
+bottom: 160px;
+}
+.chig{
+   position: absolute;
+   left: 1300px;
+   bottom: 166px;
+}
+.chi{
+   position: absolute;
+   left: 550px;
+   bottom: 139px;
+}
+
+
